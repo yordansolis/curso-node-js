@@ -1,0 +1,6 @@
+Aprender react|false
+aprender python|true
+3|false
+1|false
+1|false
+3|false

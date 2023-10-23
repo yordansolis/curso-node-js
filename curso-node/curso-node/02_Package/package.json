@@ -1,0 +1,16 @@
+{
+  "name": "mi-primer-paquete",
+  "version": "1.0.0",
+  "description": "curse the nodes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jhordan solis <jordan@example.com>",
+  "license": "ISC",
+  "dependencies": {
+    "responsimple": "^1.0.1",
+    "server": "^1.0.38"
+  }
+}
